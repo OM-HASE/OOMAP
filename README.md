@@ -26,6 +26,14 @@ The "OOMAP" tool is a comprehensive port scanning and vulnerability checking uti
 
 ## **Output Images**
 
+- **Port Scanning:**
+
+ ![Port Scanning](Output-Images/Open_Port_Scanning.png)
+
+- **Combined Test:**
+
+![Combined Test](Output-Images/Combined_Test.png)
+
 ## **Installation**
 
 Ensure you have Python 3.6 or higher installed. Clone this repository and install the required packages:
